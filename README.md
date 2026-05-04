@@ -18,7 +18,7 @@
 
 People today consume more content than ever, but reading long blog posts and articles requires dedicated screen time that many people simply do not have. Commuters, gym-goers, and busy professionals often want to stay informed but cannot always sit down to read. At the same time, content creators publish written material that never reaches the portion of their audience who prefer audio over text.
 
-Converting a written article into a listenable podcast is not as simple as reading the text aloud. Blog posts are written for eyes, not ears — they contain bullet points, headers, hyperlinks, and visual references that make no sense in audio format. A direct text-to-speech conversion of raw blog text sounds robotic and hard to follow.
+Converting a written article into a listenable podcast is not as simple as reading the text aloud. Blog posts are written for eyes, not ears; they contain bullet points, headers, hyperlinks, and visual references that make no sense in audio format. A direct text-to-speech conversion of raw blog text sounds robotic and hard to follow.
 
 **Target Users:** Busy professionals, commuters, students, and content creators who want to consume or distribute written content in audio format without manual editing.
 
