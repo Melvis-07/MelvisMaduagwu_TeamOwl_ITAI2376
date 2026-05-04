@@ -77,7 +77,7 @@ Or we can install and imort the libraries within the notebook.
 
 ### 3. Set Up Environment Variables
 
-**Option A — Enter key at runtime (recommended to us):**
+**Option A — Enter key at runtime (recommended):**
 The notebook will prompt you to enter your OpenAI API key when you run Cell 3. Nothing to set up in advance.
 
 **Option B — Set it in your terminal before launching Jupyter:**
