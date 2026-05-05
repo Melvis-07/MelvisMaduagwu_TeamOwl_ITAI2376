@@ -1,4 +1,3 @@
-# MelvisMaduagwu_TeamOwl_ITAI2376
 # Blog-to-Podcast Agent
 
 > An AI agent that converts any blog post or article into a podcast-ready mp3 audio file automatically.
@@ -18,7 +17,7 @@
 
 People today consume more content than ever, but reading long blog posts and articles requires dedicated screen time that many people simply do not have. Commuters, gym-goers, and busy professionals often want to stay informed but cannot always sit down to read. At the same time, content creators publish written material that never reaches the portion of their audience who prefer audio over text.
 
-Converting a written article into a listenable podcast is not as simple as reading the text aloud. Blog posts are written for eyes, not ears; they contain bullet points, headers, hyperlinks, and visual references that make no sense in audio format. A direct text-to-speech conversion of raw blog text sounds robotic and hard to follow.
+Converting a written article into a listenable podcast is not as simple as reading the text aloud. Blog posts are written for eyes, not ears — they contain bullet points, headers, hyperlinks, and visual references that make no sense in audio format. A direct text-to-speech conversion of raw blog text sounds robotic and hard to follow.
 
 **Target Users:** Busy professionals, commuters, students, and content creators who want to consume or distribute written content in audio format without manual editing.
 
@@ -77,7 +76,7 @@ Or we can install and imort the libraries within the notebook.
 
 ### 3. Set Up Environment Variables
 
-**Option A — Enter key at runtime (recommended):**
+**Option A — Enter key at runtime (recommended to us):**
 The notebook will prompt you to enter your OpenAI API key when you run Cell 3. Nothing to set up in advance.
 
 **Option B — Set it in your terminal before launching Jupyter:**
@@ -203,4 +202,4 @@ The rewriting prompt and TTS voice are optimized for English. Non-English blog p
 ## Course Information
 
 **Course:** ITAI2376  
-**Institution:** Houston City College 
+**Institution:** Houston City College  
